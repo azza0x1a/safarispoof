@@ -5,4 +5,3 @@ This demonstrates a download spoofing vulnerability in Safari Iphone IOS 18 wher
 
 ## Files:
 - `attacker.apk` - Test APK for PoC
-- `redirect.html` - HTML redirect page
